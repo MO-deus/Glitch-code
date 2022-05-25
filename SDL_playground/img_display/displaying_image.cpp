@@ -1,5 +1,5 @@
 
-#include "display_img.cpp.h"
+#include "displaying_image.h"
 
 int main(int argc, char *argv[])		// for comapatibility with other platforms 
 {
