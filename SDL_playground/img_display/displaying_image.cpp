@@ -1,5 +1,5 @@
 
-#include "handler.h"
+#include "display_img.cpp.h"
 
 int main(int argc, char *argv[])		// for comapatibility with other platforms 
 {
@@ -25,6 +25,7 @@ int main(int argc, char *argv[])		// for comapatibility with other platforms
 
 	}
 	
+	// exits out of the subprograms created and deletes the window
 	EndSDL();
 	return 0;
 }
